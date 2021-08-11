@@ -1,0 +1,111 @@
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\bin\Debug\PLC Controller.exe
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\bin\Debug\PLC Controller.pdb
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\bin\Debug\Interop.ActUtlTypeLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\bin\Debug\AxInterop.ActUtlTypeLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTBOARDLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTCCG4Lib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTCOMLKLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTETHERLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTGOTLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTLLTLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTMODEMLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTMULTILib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCCOMLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCMODULELib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCUSBLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActProgTypeLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTSUPPORTLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActSupportMsgLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTUWZDLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMCInternalWebOcx.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMEDITLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMFUTILLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMIMAGELib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMIOLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMLENSCALLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMMARKLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMMOTIONLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMSPLITLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMSTATUSLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMWalkMarkLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MXLabelMemLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\AxInterop.ActUtlTypeLib.dll
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csproj.ResolveComReference.cache
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.Form1.resources
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.exe
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.pdb
+d:\documents\visual studio 2010\Projects\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.PLCAction.resources
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTBOARDLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTCCG4Lib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTCOMLKLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTETHERLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTGOTLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTLLTLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTMODEMLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCCOMLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCMODULELib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCUSBLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActProgTypeLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTSUPPORTLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActSupportMsgLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTUWZDLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMCInternalWebOcx.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMEDITLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMFUTILLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMIMAGELib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMIOLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMLENSCALLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMMARKLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMMOTIONLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMSPLITLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMSTATUSLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMWalkMarkLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MXLabelMemLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\AxInterop.ActUtlTypeLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csproj.ResolveComReference.cache
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.exe
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.pdb
+D:\code\PLC Controller\PLC Controller\bin\Debug\PLC Controller.exe
+D:\code\PLC Controller\PLC Controller\bin\Debug\PLC Controller.pdb
+D:\code\PLC Controller\PLC Controller\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\code\PLC Controller\PLC Controller\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.Form1.resources
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.PLCAction.resources
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.Properties.Resources.resources
+D:\code\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csproj.GenerateResource.Cache
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTBOARDLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTCCG4Lib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTCOMLKLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTETHERLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTGOTLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTLLTLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTMODEMLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCCOMLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCMODULELib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTPCUSBLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActProgTypeLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTSUPPORTLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActSupportMsgLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.ACTUWZDLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MMCInternalWebOcx.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\Interop.MXLabelMemLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\AxInterop.ActUtlTypeLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csproj.ResolveComReference.cache
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.exe
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.pdb
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\bin\Debug\PLC Controller.exe
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\bin\Debug\PLC Controller.pdb
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csprojResolveAssemblyReference.cache
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.Form1.resources
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.PLCAction.resources
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC_Controller.Properties.Resources.resources
+D:\A60496\範例\(平台小程式)PLC Controller\PLC Controller\PLC Controller\obj\x86\Debug\PLC Controller.csproj.GenerateResource.Cache
